@@ -1,0 +1,43 @@
+git add . -> track and add it to stage env 
+git commit -m "skskksdksd" -> add it to local repo
+git push -> push it to remote repo
+
+
+git diff -> see the difference between changes
+
+
+
+git restore --stage <file_name> -> remove the current changes of file from stage env
+
+
+
+git rm -> remove the file
+
+
+git restore <file_name> -> restore the file
+
+
+
+git commit -m "salim" --amend -> change the name of the commit
+git log --oneline  -> show the history of commits without details  
+git log -p -> show the history of commits with differences
+
+
+git reset <name_commit> -> back to name_commit 
+
+git merge <branch_name> -m "message"
+
+
+git branch -d <name_branch> -> to delete the branch
+
+
+
+
+
+
+
+
+
+
+
+
